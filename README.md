@@ -20,14 +20,14 @@ The Smart Home Assistance Ecosystem is a Python-based system designed to automat
 - **Camera**: A webcam or connected camera (optional, for Security Agent motion detection).
 
 ## Project Structure
-Smart Home Assistance Ecosystem/
-│
-├── main.py              # Main script to run all agents
-├── lighting_agent.py    # Agent for controlling lights and temperature
-├── security_agent.py    # Agent for security camera motion detection
-├── inventory_agent.py   # Agent for inventory management
-├── config.py            # Configuration settings (MQTT broker, topics, preferences)
-└── README.md            # Project documentation (this file)
+Smart Home Assistance Ecosystem:
+- │
+- ├── main.py              # Main script to run all agents
+- ├── lighting_agent.py    # Agent for controlling lights and temperature
+- ├── security_agent.py    # Agent for security camera motion detection
+- ├── inventory_agent.py   # Agent for inventory management
+- ├── config.py            # Configuration settings (MQTT broker, topics, preferences)
+- └── README.md            # Project documentation (this file)
 
 
 ## Setup
